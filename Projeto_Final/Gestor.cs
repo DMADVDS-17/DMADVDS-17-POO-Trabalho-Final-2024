@@ -8,5 +8,6 @@ namespace Projeto_Final
 {
     internal class Gestor
     {
+        string teste;
     }
 }
